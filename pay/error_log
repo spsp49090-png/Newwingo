@@ -1,0 +1,93 @@
+[02-Apr-2025 02:53:08 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/flashwin/public_html/pay/adddeposit.php on line 63
+[03-Apr-2025 04:48:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/flashwin/public_html/pay/adddeposit.php on line 63
+[04-Apr-2025 12:36:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/flashwin/public_html/pay/adddeposit.php on line 63
+[06-Apr-2025 23:04:33 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/flashwin/public_html/pay/adddeposit.php on line 63
+[06-Apr-2025 23:05:33 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/flashwin/public_html/pay/adddeposit.php on line 63
+[09-Apr-2025 14:57:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/flashwin/public_html/pay/adddeposit.php on line 63
+[13-Apr-2025 12:24:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/flashwin/public_html/pay/adddeposit.php on line 63
+[13-Apr-2025 14:22:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/flashwin/public_html/pay/adddeposit.php on line 63
+[13-Apr-2025 15:05:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/flashwin/public_html/pay/adddeposit.php on line 63
+[14-Apr-2025 12:45:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/flashwin/public_html/pay/adddeposit.php on line 63
+[14-Apr-2025 15:02:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/flashwin/public_html/pay/adddeposit.php on line 63
+[14-Apr-2025 22:28:57 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/flashwin/public_html/pay/adddeposit.php on line 63
+[15-Apr-2025 17:16:27 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/flashwin/public_html/pay/adddeposit.php on line 63
+[15-Apr-2025 18:37:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/flashwin/public_html/pay/adddeposit.php on line 63
+[16-Apr-2025 15:39:17 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/flashwin/public_html/pay/adddeposit.php on line 63
+[17-Apr-2025 16:03:40 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/flashwin/public_html/pay/adddeposit.php on line 63
+[17-Apr-2025 20:09:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/flashwin/public_html/pay/adddeposit.php on line 63
+[18-Apr-2025 19:34:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/flashwin/public_html/pay/adddeposit.php on line 63
+[18-Apr-2025 19:47:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/flashwin/public_html/pay/adddeposit.php on line 63
+[19-Apr-2025 04:39:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 35
+[19-Apr-2025 04:39:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 415
+[19-Apr-2025 04:39:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 420
+[19-Apr-2025 04:39:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 35
+[19-Apr-2025 04:39:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 415
+[19-Apr-2025 04:39:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 420
+[19-Apr-2025 04:39:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 35
+[19-Apr-2025 04:39:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 415
+[19-Apr-2025 04:39:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 420
+[19-Apr-2025 04:39:27 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/usdt.php on line 399
+[19-Apr-2025 04:39:31 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/usdt.php on line 399
+[19-Apr-2025 04:39:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 35
+[19-Apr-2025 04:39:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 415
+[19-Apr-2025 04:39:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 420
+[19-Apr-2025 04:43:03 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 35
+[19-Apr-2025 04:43:03 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 420
+[19-Apr-2025 04:43:06 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 35
+[19-Apr-2025 04:43:06 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 420
+[19-Apr-2025 04:43:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 35
+[19-Apr-2025 04:43:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 420
+[19-Apr-2025 04:43:33 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 35
+[19-Apr-2025 04:43:33 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 420
+[19-Apr-2025 04:43:51 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 35
+[19-Apr-2025 04:43:51 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 420
+[19-Apr-2025 04:43:56 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 35
+[19-Apr-2025 04:43:56 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 420
+[19-Apr-2025 04:44:25 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 35
+[19-Apr-2025 04:44:25 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 420
+[19-Apr-2025 04:44:32 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 35
+[19-Apr-2025 04:44:32 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 420
+[19-Apr-2025 04:44:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 35
+[19-Apr-2025 04:44:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 420
+[19-Apr-2025 04:45:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 35
+[19-Apr-2025 04:45:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 420
+[19-Apr-2025 04:46:01 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/usdt.php on line 399
+[19-Apr-2025 04:47:01 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/usdt.php on line 399
+[18-Apr-2025 23:17:05 UTC] PHP Parse error:  Unclosed '{' on line 71 does not match ']' in /home2/llclubin/public_html/pay/usdt.php on line 399
+[18-Apr-2025 23:17:07 UTC] PHP Parse error:  Unclosed '{' on line 71 does not match ']' in /home2/llclubin/public_html/pay/usdt.php on line 399
+[18-Apr-2025 23:17:07 UTC] PHP Parse error:  Unclosed '{' on line 71 does not match ']' in /home2/llclubin/public_html/pay/usdt.php on line 399
+[18-Apr-2025 23:17:08 UTC] PHP Parse error:  Unclosed '{' on line 71 does not match ']' in /home2/llclubin/public_html/pay/usdt.php on line 399
+[19-Apr-2025 04:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 35
+[19-Apr-2025 04:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/llclubin/public_html/pay/wepay.php on line 420
+[20-Apr-2025 21:00:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 20
+[20-Apr-2025 21:00:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 29
+[20-Apr-2025 21:00:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 20
+[20-Apr-2025 21:00:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 29
+[20-Apr-2025 21:00:21 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 20
+[20-Apr-2025 21:00:21 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 29
+[20-Apr-2025 21:00:24 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 20
+[20-Apr-2025 21:00:24 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 29
+[20-Apr-2025 21:00:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 20
+[20-Apr-2025 21:00:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 29
+[20-Apr-2025 21:00:30 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 20
+[20-Apr-2025 21:00:30 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 29
+[20-Apr-2025 21:00:33 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 20
+[20-Apr-2025 21:00:33 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 29
+[20-Apr-2025 21:00:36 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 20
+[20-Apr-2025 21:00:36 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 29
+[20-Apr-2025 21:00:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 20
+[20-Apr-2025 21:00:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 29
+[20-Apr-2025 21:00:42 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 20
+[20-Apr-2025 21:00:42 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 29
+[20-Apr-2025 21:00:45 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 20
+[20-Apr-2025 21:00:45 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 29
+[20-Apr-2025 21:00:48 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 20
+[20-Apr-2025 21:00:48 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 29
+[20-Apr-2025 21:01:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 20
+[20-Apr-2025 21:01:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 29
+[20-Apr-2025 21:02:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 20
+[20-Apr-2025 21:02:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 29
+[20-Apr-2025 21:03:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 20
+[20-Apr-2025 21:03:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 29
+[20-Apr-2025 21:04:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 20
+[20-Apr-2025 21:04:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/diuwinxs/public_html/pay/checksuccesspay.php on line 29
